@@ -1,0 +1,27 @@
+label{
+    font-weight: bold;
+    font-size: 20px;
+}
+#warn{
+    color: red;
+    display: none;
+    font-weight: bold;
+}
+.display{
+    margin-top: 20px;
+}
+.task-div{
+    border-radius: 10px;
+    background-color: rgb(88, 88, 216);
+    padding: 0px 0px 0px 10px;
+    color: white;
+    cursor : pointer;
+
+}
+.task-div span{
+    font-weight: bold;
+    font-size: 19px;
+}
+.task-div p{
+    font-size: 15px;
+}
